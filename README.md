@@ -5,20 +5,14 @@ Here is a list of 40 basic Linux commands
 # Here is a list of 40 basic Linux commands:
    
    > List the contents of a directory
-   
-   ```shell     
-   
-    ls 
-   
-   ```
+```shell     
+   ls 
+```
    
    > Change the working directory
-   
-   ```shell     
-
-    cd 
-
-   ```
+```shell     
+cd 
+```
    
    >  Print the current working directory
    
@@ -61,12 +55,9 @@ Here is a list of 40 basic Linux commands
     ```
     
      >  Remove a file or directory
-    
-    ```shell     
-
-    rm 
-
-    ```
+```shell     
+rm 
+```
     
     >  View the contents of a file
     
