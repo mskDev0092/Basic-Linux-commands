@@ -1,4 +1,4 @@
-# Here is a list of 40 basic Linux commands:
+# Here is a list of basic Linux commands:
 
 | List                      |
 | ------------------------- |
