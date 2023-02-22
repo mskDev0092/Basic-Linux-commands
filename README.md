@@ -2,12 +2,12 @@
 
 | List                      |
 | ------------------------- |
-| 1. [Files & Navigating]() |
-| 2. [Process Managment]() |
-| 3. [System Information]() |
-| 4. [Compressing]()       |
-| 5. [Permission]()         |
-| 6. [Networking]()         |
+| 1. [Files & Navigating](https://github.com/mskDev0092/General-Linux-commands/blob/main/README.md#1-files--navigating) |
+| 2. [Process Managment](https://github.com/mskDev0092/General-Linux-commands/blob/main/README.md#2-process-managment) |
+| 3. [System Information](https://github.com/mskDev0092/General-Linux-commands/blob/main/README.md#3-system-information) |
+| 4. [Compressing](https://github.com/mskDev0092/General-Linux-commands/blob/main/README.md#4-compressing)       |
+| 5. [Permission](https://github.com/mskDev0092/General-Linux-commands/blob/main/README.md#5-permission)         |
+| 6. [Networking](https://github.com/mskDev0092/General-Linux-commands/blob/main/README.md#6-networking)         |
 
 # 1. Files & Navigating
 
