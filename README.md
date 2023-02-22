@@ -1,5 +1,14 @@
 # Here is a list of 40 basic Linux commands:
 
+| List                      |
+| ------------------------- |
+| 1. [Files & Navigating]() |
+| 2. [Process Managment] () |
+| 3. [System Information]() |
+| 4. [Compressing] ()       |
+| 5. [Permission]()         |
+| 6. [Networking]()         |
+
 # 1. Files & Navigating
 
 > List the contents of a directory
@@ -74,7 +83,7 @@
 
     tail
 
-# Process Managment
+# 2. Process Managment
 
 > List running processes
 
@@ -124,7 +133,7 @@
 
     tail
 
-# System Information
+# 3. System Information
 
 > show date and time
 
@@ -190,11 +199,14 @@
 
     which
 
-# Compressing
+# 4. Compressing
 
 tar of file.tar files tar files into file.tar
+
 tar xf file.tar untar into current directory
+
 tar tf file.tar show contents of archive
+
 options:
 
 c - create archive
@@ -207,69 +219,69 @@ k - do not overwrite
 T - files from file
 v - verbose
 
-# Permission
+# 5. Permission
 
 > The chmod command is used to change the file permissions of a file or directory.
 
-chmod
+    chmod
 
 > The chown command is used to change the owner of a file or directory.
 
-chown
+    chown
 
 > The chgrp command is used to change the group ownership of a file or directory.
 
-chgrp
+    chgrp
 
 > The umask command is used to set the default file permissions for newly created files and directories.
 
-umask
+    umask
 
 > The setfacl command is used to set access control lists for files and directories.
 
-setfacl
+    setfacl
 
-# Networking
+# 6. Networking
 
 > Configure network interface parameters
 
-ifconfig
+    ifconfig
 
 > Show/manipulate routing, devices, policy routing and tunnels
 
-ip
+    ip
 
 > Show/manipulate the IP routing table
 
-route
+    route
 
 > Show network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
 
-netstat
+    netstat
 
 > Query Internet name servers interactively
 
-nslookup
+    nslookup
 
 > Query DNS servers for information
 
-dig
+    dig
 
 > Print the route packets trace to network host
 
-traceroute
+    traceroute
 
 > Send ICMP ECHO_REQUEST to network hosts
 
-ping
+    ping
 
 > Network exploration tool and security/port scanner
 
-nmap
+    nmap
 
 > Manipulate the system ARP cache
 
-arp
+    arp
 
 > Connect to a remote system
 
