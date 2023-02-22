@@ -3,9 +3,9 @@
 | List                      |
 | ------------------------- |
 | 1. [Files & Navigating]() |
-| 2. [Process Managment] () |
+| 2. [Process Managment]() |
 | 3. [System Information]() |
-| 4. [Compressing] ()       |
+| 4. [Compressing]()       |
 | 5. [Permission]()         |
 | 6. [Networking]()         |
 
